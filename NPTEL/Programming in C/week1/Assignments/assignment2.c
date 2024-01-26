@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    // Declare variables to store the three integers
     int a, b, c;
     
     // Read the input from the user
@@ -32,3 +31,4 @@ int main()
     
     return 0;
 }
+//Code stolen from CHATGPT 😜
