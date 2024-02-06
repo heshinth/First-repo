@@ -1,7 +1,7 @@
 /* IMPORTANT*/
 /*NPTEL ASSIGNMEENT SUBMISSION SYSTEM IS "BROKEN!!" AND DOES NOT WORK PROPERLY
   RETRY AGANIN AND AGAIN*/
-// I made this 😎
+
 #include <stdio.h>
 int main()
 {
@@ -24,3 +24,5 @@ int main()
         printf("0");
     }
 }
+
+// I made this 😎
