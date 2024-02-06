@@ -1,9 +1,9 @@
-#include <stdio.h>
-int main()
 /* IMPORTANT*/
 /*NPTEL ASSIGNMEENT SUBMISSION SYSTEM IS "BROKEN!!" AND DOES NOT WORK PROPERLY
   RETRY AGANIN AND AGAIN*/
-
+// I made this 😎
+#include <stdio.h>
+int main()
 {
     int a;
     int count;
